@@ -3,7 +3,7 @@ package guru.springframework;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-//Test Mongo DB project -1
+//Test Mongo DB project -2
 
 @SpringBootApplication
 public class SpringBootMongodbApplication {
